@@ -1,2 +1,2 @@
 # SQLtest
-Anylyst tests 
+Analyst tests 
