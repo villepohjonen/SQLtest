@@ -1,2 +1,2 @@
 # SQLtest
-Analyst tests 
+Data analyst tests 
